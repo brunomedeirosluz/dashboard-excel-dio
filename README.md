@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas – Excel
+# 📊  Dashboard de Vendas do Xbox com Excel
 
 ## 📌 Descrição do Projeto
 Este projeto foi desenvolvido como parte de um desafio da **Digital Innovation One (DIO)**, com o objetivo de criar um **dashboard de vendas no Excel**, focado na organização, visualização e análise de dados.
